@@ -1,18 +1,3 @@
-# Hi, I'm Tim!
-
-Principal Consultant at **[LinuxTampa, LLC](https://linuxtampa.com)** — multi-cloud
-platform engineering (AWS + GCP + Kubernetes), 15+ years of DevOps/CI-CD/systems
-engineering, and deep hands-on work with AI-assisted development and AI code review
-for high-liability codebases.
-
-- 🔭 Currently: platform engineering/DevOps consulting via LinuxTampa LLC, plus
-  on-demand AI code evaluation for Mercor, Snorkel.ai, and Alignerr
-- 📜 Pursuing Anthropic Partner certification
-- ☁️ AWS Certified Solutions Architect · AWS Certified DevOps Engineer Professional ·
-  AWS Certified Developer · GCP Professional Cloud Architect
-
-## Tech stack
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,6 +8,19 @@ for high-liability codebases.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+# Hi, I'm Tim!
+
+I'm the Principal Consultant at **[LinuxTampa, LLC](https://linuxtampa.com)** — multi-cloud
+platform engineering (AWS + GCP + Kubernetes), 15+ years of DevOps/CI-CD/systems
+engineering, and deep hands-on work with AI-assisted development and AI code review
+for high-liability codebases.
+
+- 🔭 Currently: platform engineering/DevOps consulting via LinuxTampa LLC (two clients for 2026 so far)
+- 📜 Pursuing Anthropic Partner certification
+- ☁️ Multi-cloud certified: AWS Certified Solutions Architect · AWS Certified DevOps Engineer Professional ·
+  AWS Certified Developer · GCP Professional Cloud Architect
+- 🏗️ On-prem / shared-hosting / networking
 
 ## Featured projects
 
