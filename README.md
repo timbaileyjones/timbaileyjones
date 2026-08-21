@@ -48,11 +48,13 @@ for high-liability codebases.
 <!-- RECENT-ACTIVITY:START -->
 ### Recent activity
 
-- Optimized and deployed **foolishrelics-videogames** on a new ARM64 DGX Spark host—fixed file-scheme security errors, added UI headings/borders, introduced a demo mode that auto-plays after idle, and adjusted global scaling constants for characters and platforms.
-- Refactored the **home-motion-detector** pipeline: refreshed container image tokens, migrated the pod to a GPU-enabled k3s node, tightened confidence thresholds to reduce false-positive vehicle alerts, and renamed the entrypoint script for clearer process identification.
-- Improved **meme-farm** AI analysis on the DGX Spark server—benchmarked multiple Ollama models, unified public-figure extraction to a single model for steadier GPU utilization, set up NFS mounts for shared volumes, and added log-parsing/tailing tools to monitor inference responses in real time.
-- Completed documentation and a demo site for **dark-reader-aware-theme-toggle-button**, corrected the package instructions, and published the example to an npm repository.
-- Advanced **call-relay** audio/video calling service: drafted architecture docs, added camera/microphone dropdown controls, stubbed Windows static builds, scoped screen-share functionality, and synchronized repository mirrors across Forgejo and GitHub.
+<sub>Updated <span title="August 21, 2026, 4:36 PM EDT">today</span></sub>
+
+- Refactored and stabilized the **Foolish Relics** web‑game on ARM64 (DGX Spark), fixing runtime freezes, adding embed headers, documenting SSL issues, and iterating on sprite scaling constants and gameplay feedback.  
+- Advanced the **Terraform Zyxel provider**: set up three git remotes, clarified naming conventions, added e2e test scaffolding, generated HashiCorp‑style documentation, and prepared the codebase for open‑source release.  
+- Improved the **home‑motion‑detector** pipeline: resolved container image pull/token problems, tuned confidence thresholds to reduce false positives, renamed the entrypoint script, and evaluated CUDA/GPU deployment on a k3s cluster.  
+- Optimized **Meme Farm** inference on a DGX Spark node: benchmarked multiple LLaMA models for public‑figure extraction, configured NFS mounts, added a tail‑like log viewer, and automated sync of environment files across hosts.  
+- Delivered a functional demo for the **dark‑reader aware theme toggle button**, fixed package instructions, published the demo to an npm repository, and installed supporting tooling (GitHub CLI).
 <!-- RECENT-ACTIVITY:END -->
 
 ## Get in touch
