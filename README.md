@@ -1,4 +1,4 @@
-# Hi, I'm Tim Bailey-Jones
+# Hi, I'm Tim!
 
 Principal Consultant at **[LinuxTampa, LLC](https://linuxtampa.com)** — multi-cloud
 platform engineering (AWS + GCP + Kubernetes), 15+ years of DevOps/CI-CD/systems
