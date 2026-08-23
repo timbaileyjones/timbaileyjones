@@ -24,11 +24,13 @@ for high-liability codebases.
 <!-- RECENT-ACTIVITY:START -->
 ### Recent activity
 
-- Optimized and deployed **foolishrelics-videogames** on a new ARM64 DGX Spark host—fixed file-scheme security errors, added UI headings/borders, introduced a demo mode that auto-plays after idle, and adjusted global scaling constants for characters and platforms.
-- Refactored the **home-motion-detector** pipeline: refreshed container image tokens, migrated the pod to a GPU-enabled k3s node, tightened confidence thresholds to reduce false-positive vehicle alerts, and renamed the entrypoint script for clearer process identification.
-- Improved **meme-farm** AI analysis on the DGX Spark server—benchmarked multiple Ollama models, unified public-figure extraction to a single model for steadier GPU utilization, set up NFS mounts for shared volumes, and added log-parsing/tailing tools to monitor inference responses in real time.
-- Completed documentation and a demo site for **dark-reader-aware-theme-toggle-button**, corrected the package instructions, and published the example to an npm repository.
-- Advanced **call-relay** audio/video calling service: drafted architecture docs, added camera/microphone dropdown controls, stubbed Windows static builds, scoped screen-share functionality, and synchronized repository mirrors across Forgejo and GitHub.
+- <sub><span title="August 21, 2026, 5:55 PM EDT">today</span></sub> — **home-motion-detector**: Improved the motion‑detector service by adding navigation UI with an index of recordings, fixing MIME types and layout, reducing false‑positive alerts through confidence thresholds, and adjusting deployment targets (e.g., moving to the DGX node).
+- <sub><span title="August 21, 2026, 5:39 PM EDT">today</span></sub> — **homelab-seed**: Managed a k3s homelab cluster—configuring CI/CD with ArgoCD/FluxCD, handling secrets, monitoring longhorn health, adding GPU‑focused dashboards, expanding the cluster with the DGX‑spark node, and integrating various services such as Ollama ingress and smart‑AC setup.
+- <sub><span title="August 19, 2026, 7:22 PM EDT">yesterday</span></sub> — **meme-farm**: Optimized the meme‑farm image analysis pipeline by benchmarking multiple Ollama models, improving GPU utilization, configuring NFS storage on a PowerEdge server, adding scripting for log handling and data sync, and preparing the DGX‑Spark host for high‑capacity inference.
+- <sub><span title="August 13, 2026, 11:21 PM EDT">1 week ago</span></sub> — **terraform-provider-zyxel**: Advanced the Terraform provider for Zyxel routers by establishing repository remotes, defining naming conventions, drafting specifications, setting up testing frameworks, and generating professional documentation.
+- <sub><span title="August 13, 2026, 10:45 PM EDT">1 week ago</span></sub> — **call-relay**: Refactored call‑relay from a Cloud Run container to run as a process on the vm-wordpress VM, added health checks, estimated costs, cleaned up secrets, and began adding cross‑platform support (Windows stub, screen‑share UI).
+- <sub><span title="August 12, 2026, 8:54 PM EDT">1 week ago</span></sub> — **foolishrelics-videogames**: Debugged and deployed the Foolish Relics web game on ARM hardware, added UI framing for the embed, resolved SSL redirection issues, and iterated sprite assets and scaling constants to improve gameplay stability.
+- <sub><span title="August 12, 2026, 11:44 AM EDT">1 week ago</span></sub> — **dark-reader-aware-theme-toggle-button**: Created a demo website to showcase the dark‑reader aware theme toggle button, updated the package to version 0.1.2, fixed documentation, and committed/pushed the changes.
 <!-- RECENT-ACTIVITY:END -->
 
 ## Featured projects
